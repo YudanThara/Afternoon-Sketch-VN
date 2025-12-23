@@ -2,9 +2,10 @@
 
 Sebuah proyek Visual Novel sederhana yang dibuat sebagai latihan dasar penggunaan **Ren'Py Engine** dan bahasa pemrograman **Python**. Proyek ini berfokus pada logika percabangan cerita (branching narrative), manajemen aset visual, dan penggunaan *tag* karakter.
 
-![Screenshot Gameplay](screenshot_1.png)
-![Screenshot Gameplay](screenshot_2.png)
-![Screenshot Gameplay](screenshot_3.png)
+![Screenshot Gameplay](game/asset/screenshot_1.png)
+![Screenshot Gameplay](game/asset/screenshot_2.png)
+![Screenshot Gameplay](game/asset/screenshot_4.png)
+![Screenshot Gameplay](game/asset/screenshot_3.png)
 
 ## 🎮 Tentang Proyek
 Game ini adalah simulasi percakapan pendek (*Slice of Life*) tentang dua mahasiswa yang berjalan-jalan sore saat libur kuliah.
