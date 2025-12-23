@@ -4,8 +4,8 @@ Sebuah proyek Visual Novel sederhana yang dibuat sebagai latihan dasar penggunaa
 
 ![Screenshot Gameplay](game/asset/screenshot_1.png)
 ![Screenshot Gameplay](game/asset/screenshot_2.png)
-![Screenshot Gameplay](game/asset/screenshot_4.png)
 ![Screenshot Gameplay](game/asset/screenshot_3.png)
+![Screenshot Gameplay](game/asset/screenshot_4.png)
 
 ## 🎮 Tentang Proyek
 Game ini adalah simulasi percakapan pendek (*Slice of Life*) tentang dua mahasiswa yang berjalan-jalan sore saat libur kuliah.
