@@ -122,7 +122,7 @@ label babak_akhir:
     c "Kakiku rasanya mau copot. Tapi makasih ya udah nemenin."
     y "Santai aja. Yuk pulang, besok ada kuliah pagi."
 
-    "Kami pun berjalan menuju halte bus untuk pulang ke kost masing-masing."
+    "Kami pun berjalan menuju halte bus untuk pulang ke rumah masing-masing."
     
     # Layar hitam total (Tamat)
     scene black 
